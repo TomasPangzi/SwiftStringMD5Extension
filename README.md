@@ -1,0 +1,1 @@
+# SwiftStringMD5Extension
